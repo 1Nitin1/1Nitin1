@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on LinkedIn 
 - 📫 How to reach me +919971965929 WhatsApp 
 - 😄 Pronouns: Consistent 
-- ⚡ Fun fact: I'm a beginner 
+- ⚡ Fun fact: I never got negative points in leetcode contest
 
 <!---
 1Nitin1/1Nitin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
