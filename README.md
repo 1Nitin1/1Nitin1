@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nitin Baranwal 
+- 👋 Hi I’m Nitin Baranwal 
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning DSA and CP
 - 💞️ I’m looking to collaborate on LinkedIn 
