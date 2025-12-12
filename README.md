@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on LinkedIn 
 - 📫 How to reach me +919971965929 WhatsApp 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am rated Leetcode(1760+), Codeforces(1290+), CodeChef(1754+)
+- ⚡ Fun fact: I am rated Leetcode(1817+), Codeforces(1296+), CodeChef(1754+)
 
 <!---
 1Nitin1/1Nitin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
