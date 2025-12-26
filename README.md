@@ -1,6 +1,6 @@
 - 👋 Hi I’m Nitin Baranwal 
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning DSA and CP
+- 🌱 I’m currently learning AIML
 - 💞️ I’m looking to collaborate on LinkedIn 
 - 📫 How to reach me +919971965929 WhatsApp 
 - 😄 Pronouns: He/Him
